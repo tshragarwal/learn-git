@@ -1,0 +1,8 @@
+#comments come followed by '#'
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+
